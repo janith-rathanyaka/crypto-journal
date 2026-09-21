@@ -1,0 +1,31 @@
+{
+  "name": "Trading Journal powered by SEMIX",
+  "short_name": "SEMIX Journal",
+  "description": "Log trades, track win rate and P/L, and chart your equity curve.",
+  "start_url": "./Journal_powered_by_SEMIX.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0B0E11",
+  "theme_color": "#0B0E11",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
