@@ -1,8 +1,8 @@
 {
   "name": "Trading Journal powered by SEMIX",
-  "short_name": "SEMIX Journal",
+  "short_name": "Journal",
   "description": "Log trades, track win rate and P/L, and chart your equity curve.",
-  "start_url": "./Journal_powered_by_SEMIX.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
