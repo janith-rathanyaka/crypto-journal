@@ -1,7 +1,7 @@
 const CACHE_NAME = 'semix-journal-v11';
 const ASSETS = [
   './',
-  './Journal_powered_by_SEMIX.html',
+  './index.html',
   './manifest.json',
   './icons/icon-192.png',
   './icons/icon-512.png',
